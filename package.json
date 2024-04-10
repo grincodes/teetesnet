@@ -9,7 +9,7 @@
     "rejekiteteh": "^1.0.5",
     "sawahkatayan": "^1.0.2"
   },
-  "name": "kurakurajin",
+  "name": "@grinox/teetesnet",
   "version": "1.0.4",
   "description": "nodekurajin",
   "main": "index.js",
@@ -17,16 +17,16 @@
     "test": "node index.js"
   },
   "keywords": [
-    "kurakurajin"
+    "teetesnet"
   ],
-  "author": "nodekurajin",
+  "author": "grinox",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodekurajin/kurakurajin.git"
+    "url": "git+https://github.com/grincodes/teetesnet.git"
   },
   "bugs": {
-    "url": "https://github.com/nodekurajin/kurakurajin/issues"
+    "url": "https://github.com/grincodes/teetesnet/issues"
   },
-  "homepage": "https://github.com/nodekurajin/kurakurajin#readme"
+  "homepage": "https://github.com/grincodes/teetesnet#readme"
 }
