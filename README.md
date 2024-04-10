@@ -1,5 +1,5 @@
-# Project Test Bukan Untuk Live
+# Project Tea Testnet 
 
-## Project percobaan aja cuy
+## Project 
 
-Bukan projek beneran, cuma percobaan aja.
+Happy opensource
